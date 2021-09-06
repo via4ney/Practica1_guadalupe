@@ -1,1 +1,19 @@
+index CSS
+h1{
+  font-family:Sans-Scrif;
+  color:blue;
+}
 
+headertwo{
+color:pink;
+}
+Java Script
+index.Js
+function get IMC(){
+  var peso:parse Float(document.get Element By id
+    (´peso´).valve);
+  
+  var peso:parse Float(document.get Element By id
+    (´altura´).valve);
+  var imc=peso/(altura * altura);
+  document.get Eelement By id(
